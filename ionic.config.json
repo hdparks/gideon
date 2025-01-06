@@ -1,0 +1,7 @@
+{
+  "name": "gideon",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
